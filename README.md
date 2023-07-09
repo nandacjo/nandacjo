@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Universitas Bina Darma**
 
-- 🌱 I’m currently learning **Laravel, VueJS, ReactJs**
+- 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on **Laravel, VueJS**
+- 👯 I’m looking to collaborate on **Laravel**
 
-- 🤝 I’m looking for help with **PHP, JAVASCRIPT**
+- 🤝 I’m looking for help with **PHP**
 
-- 💬 Ask me about **PHP, Laravel, Javascript**
+- 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **nandahermansyah97@gmail.com**
 

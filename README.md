@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nanda Hermawansyah</h1>
-<h3 align="center">A Beginer backend developer with Laravel from Indonesia</h3>
+<h1>Hi 👋, I'm Nanda Hermawansyah</h1>
+<h3>A Beginer backend developer with Laravel from Indonesia</h3>
 
 - 🔭 I’m currently working on **Universitas Bina Darma**
 

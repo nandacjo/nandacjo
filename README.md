@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nanda Hermawansyah</h1>
-<h3 align="center">A Newbie backend developer with Laravel from Indonesia</h3>
+<h3 align="center">A Beginer backend developer with Laravel from Indonesia</h3>
 
 - 🔭 I’m currently working on **Universitas Bina Darma**
 
@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Laravel, VueJS**
 
-- 🤝 I’m looking for help with **PHP, JAVASCRIPT, FLUTTER,**
+- 🤝 I’m looking for help with **PHP, JAVASCRIPT**
 
-- 💬 Ask me about **PHP, Laravel, Javascript, VueJS, ReactJs**
+- 💬 Ask me about **PHP, Laravel, Javascript**
 
 - 📫 How to reach me **nandahermansyah97@gmail.com**
 
